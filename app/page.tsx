@@ -405,7 +405,7 @@ export default function Home() {
             <div className="logo-text">
               UncleSomkid's <span>ThaiStreetFood</span>
             </div>
-            <div className="tagline">🌶️ กดแล้วลองพูดเมนูที่ต้องการ 🌶️</div>
+            <div className="tagline">กดแล้วลองพูดเมนูที่ต้องการ</div>
           </div>
 
           {/* Main Card */}
